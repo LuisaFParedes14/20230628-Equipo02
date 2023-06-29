@@ -1,2 +1,2 @@
-                           LUISA FERNANDA PAREDES ERAZO ::):
+                       
 El tema que mas me gusto fue el hecho de poder usar git, me parece que aprendi muchas cosas que veia imposible de entender, como crear carpetas archivos por comandos, lo facil que es y la gran ayuda que significa. Lo que menos me gusto podria ser el tema del push cuando hay conflictos, a veces me confunde mucho esa parte.
