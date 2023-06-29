@@ -1,2 +1,2 @@
 
-- Adriana Díaz - Danahe Murillo -   Xochitl Avila -
+- Adriana Díaz - Danahe Murillo -   Xochitl Avila - Luisa Paredes - 
